@@ -2,6 +2,13 @@ https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/netw
 
 https://docs.aws.amazon.com/directconnect/latest/UserGuide/WorkingWithVirtualInterfaces.html
 
+#AS_PATH Prepending
+https://sites.google.com/site/amitsciscozone/home/bgp/bgp-as-path-prepending-and-as-path-filters
+#VLAN Stacking or QinQ
+https://en.wikipedia.org/wiki/IEEE_802.1ad
+#Multi-exit Discriminator (MED)
+https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/13759-37.html
+
 https://docs.aws.amazon.com/vpn/latest/s2svpn/VPNRoutingTypes.html
 
 https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Subnets.html
