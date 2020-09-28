@@ -48,7 +48,7 @@ Materials for AWS Certified Advanced Network Specialty Certification Crash Cours
 
 ### VPN
 
-[Site-to-Site VPN routing options](https://docs.aws.amazon.com/vpn/latest/s2svpn/VPNRoutingTypes.html)
+* [Site-to-Site VPN routing options](https://docs.aws.amazon.com/vpn/latest/s2svpn/VPNRoutingTypes.html)
 
 ### Layer 7 Services
 
@@ -73,4 +73,4 @@ Materials for AWS Certified Advanced Network Specialty Certification Crash Cours
 
 #### Lambda@Edge
 
-[Slideshare: Securing Your AWS Infrastructure with Edge Services (May 2017 AWS Online Tech Talks)](https://www.slideshare.net/AmazonWebServices/securing-your-aws-infrastructure-with-edge-services-may-2017-aws-online-tech-talks)
+* [Slideshare: Securing Your AWS Infrastructure with Edge Services (May 2017 AWS Online Tech Talks)](https://www.slideshare.net/AmazonWebServices/securing-your-aws-infrastructure-with-edge-services-may-2017-aws-online-tech-talks)
