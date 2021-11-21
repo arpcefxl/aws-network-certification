@@ -43,7 +43,7 @@ Materials for AWS Certified Advanced Network Specialty Certification Crash Cours
 ### BGP
 
 * [Cisco: BGP Best Path Selection Algorithm](https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/13753-25.html)
-* [Google Sites blog: BGP AS-Path Prepending and AS-Path Filters](https://sites.google.com/site/amitsciscozone/home/bgp/bgp-as-path-prepending-and-as-path-filters)
+* [Google Sites blog: BGP AS-Path Prepending and AS-Path Filters](https://mobile.sites.google.com/site/amitsciscozone/bgp/bgp-as-path-prepending-and-as-path-filters)
 * [Cisco: How BGP Routers Use the Multi-Exit Discriminator for Best Path Selection (CCO Account Required)](https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/13759-37.html)
 
 ### VPN
